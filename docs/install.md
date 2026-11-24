@@ -1,3 +1,3 @@
 # Install
 
-Run `pip install docs-site`.
+v2 installer: run `docsite-cli init`.
